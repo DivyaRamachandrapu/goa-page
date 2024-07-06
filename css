@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.heading {
+    font-family: Roboto;
+    font-size: 17px;
+    padding-left: 18px;
+    padding-top: 15px;
+    color: #323f4b;
+    font-weight: 500;
+
+
+}
+
+.paragraph {
+    font-family: Roboto;
+    font-size: 13px;
+    padding-left: 18px;
+    padding-right: 20px;
+    color: #9aa5b1;
+
+}
+
+.goa-picture {
+    margin-left: 15px;
+    margin-top: 5px;
+}
+
+.goa-videos {
+    height: 100px;
+    width: 97px;
+    margin-left: 15px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+
+}
